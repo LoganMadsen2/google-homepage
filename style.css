@@ -1,0 +1,87 @@
+#nav1 {
+    display: inline-block;
+    float: left;
+    padding: 15px;
+    position: relative;
+    font-size: 13px;
+}
+
+#nav2 {
+    position: relative;
+    top: 0px:
+    right: 0px;
+    margin: auto;
+    float: right;
+    padding: 15px;
+    display: inline-block;
+    font-size: 13px;
+    
+}
+
+#nav1:hover {
+    text-decoration: underline;
+}
+
+#gridimg {
+    height: 20px;
+    width: 20px;
+}
+#search1, #search2 {
+    height: 30px;
+    width: 200px;
+    display: inline;
+    position: relative;
+    top: 300px;
+    
+}
+nav a {
+    padding: 5px;
+}
+#GoogleLogo {
+    height: 100px;
+    width: 300px;
+    position: relative;
+    right: 35px;
+}
+
+#googlediv {
+    margin: auto;
+    height: 100px;
+    width: 300px;
+    position: relative;
+    top: 240px;
+}
+
+#SearchBar {
+    margin: auto;
+    width: 450px;
+
+}
+
+#search {
+    position: relative;
+    width: 500px;
+    height: 30px;    
+    bottom: -270px;    
+    right: 45px;    
+    border-radius: 0;
+    box-shadow: silver 2px 2px;
+    border: 4px;
+    margin: auto;
+
+}
+#submit {
+    border-radius: 1px;
+    background-color:rgb(29, 127, 255);
+    text-decoration-color:white;
+    border: 0px;
+    height: 30px;
+    width: auto;
+    margin: auto;
+}
+#search1, #search2 {
+    border-radius: 0px;
+    width: 150px;
+    left: 35px;
+    margin: 5px;   
+}
